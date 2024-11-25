@@ -12,9 +12,16 @@
 
 - 📫 Reach me at **jinalshah5358@gmail.com**
 
+---
 
+### 🐍 **Contribution Snake**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JinalShah5358/JinalShah5358/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
+
 
 ### ⚒️ **Tools & Technologies**
 
