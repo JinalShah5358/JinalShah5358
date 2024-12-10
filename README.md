@@ -99,10 +99,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JinalShah5358&show_icons=true&locale=en&layout=compact&theme=transparent&card_width=400&title_color=fff" alt="Soham's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JinalShah5358&show_icons=true&locale=en&layout=compact&theme=transparent&card_width=400&title_color=fff" alt="jinal's Top Languages" />
     </td>
     <td align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=JinalShah5358&theme=tokyonight_duo&hide_border=false" alt="Soham's Github Stats" width="450" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=JinalShah5358&theme=tokyonight_duo&hide_border=false" alt="jinal's Github Stats" width="450" />
     </td>
     
   </tr>
